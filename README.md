@@ -14,9 +14,9 @@ https://www.anaconda.com/products/individual
 
 ### 3. 주피터 노트북 실행하기 
 
-윈도우즈에서 실행 방법 : https://bit.ly/38y43hK
+- 윈도우즈에서 실행 방법 : 아래 윈도우즈 검색에, jupy 만 입력하면, Jupyter Notebook 라는 앱 나옵니다. 이를 실행!
 
-- 맥(Mac)이나 리눅스인 경우 : 위 참고 파일에서 anaconda prompt 대신, terminal 에서 실행하면 됩니다.
+- 맥(Mac)이나 리눅스인 경우 : terminal 에서 실행하면 됩니다.  $ jupyter notebook 
 
 --------
 
